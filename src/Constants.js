@@ -1,1 +1,1 @@
-export const PREFIX = 'https://node-server-baroque-lite-f749012f808c.herokuapp.com/';
+export const PREFIX = 'https://baroque-server.vercel.app/';
